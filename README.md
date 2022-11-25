@@ -22,7 +22,7 @@ This tutorial is a practice/**COPY** of **ReactJS con SASS: Programando la web d
 
 ### Table of Contents
 1. Create a new project
-
+2. SASS installation
 
 ### Create a new project
 We are going to use **Vite** like a build tool, using **Reactjs**; then it is necesary to excecute these commands
@@ -34,4 +34,10 @@ We are going to use **Vite** like a build tool, using **Reactjs**; then it is ne
 	npm run dev
 ```
 
+### SASS installation
+We are going to use **Vite** like a build tool, using **Reactjs**; then it is necesary to excecute these commands
+
+```bash
+	npm i sass -D
+```
 
